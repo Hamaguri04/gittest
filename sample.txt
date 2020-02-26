@@ -4,7 +4,6 @@ foo bar baz
 hoge fuga
 tokoroten-lab pullreq
 
-
 sato-yuya pullreq
 Hey guys!
 we have a gift for you.
